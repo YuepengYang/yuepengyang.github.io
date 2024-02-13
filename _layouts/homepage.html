@@ -49,23 +49,20 @@
         {% endif %}
 
         <h1>{{ site.title }}</h1>
-
         <h1>{{ site.title_cn }}</h1>
 
         {% if site.position %}
-        <position style="font-size:1.20rem;">{{ site.position }}</position>
+        <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <p>{{ site.affiliation }}</p>
-        <!-- <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a> -->
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.affiliation %}
-        <p>{{ site.department }}</p>
+        {% if site.department %}
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
-        <p>
-
+        {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
