@@ -10,8 +10,8 @@ Before coming to UChicago, I did my Bachelor's and Master's degrees in Mathemati
 I'm interested in all sorts of things related to theory/ML!
 
 ## Publication/Preprints
-* Top-$K$ ranking with monotone adversary, with Antares Chen, Lorenzo Orecchia, and Cong Ma [[arXiv](https://arxiv.org/abs/2402.07445)]
-* $O(T^{−1})$ Convergence of optimistic-follow-the-regularized-leader in two-player zero-sum markov games, with Cong Ma [[arXiv](https://arxiv.org/abs/2209.12430), [ICLR](https://openreview.net/pdf?id=VWqiPBB_EM)]. Accepted to ICLR 2023. 
+* Top-$$K$$ ranking with monotone adversary, with Antares Chen, Lorenzo Orecchia, and Cong Ma [[arXiv](https://arxiv.org/abs/2402.07445)]
+* $$O(T^{−1})$$ Convergence of optimistic-follow-the-regularized-leader in two-player zero-sum markov games, with Cong Ma [[arXiv](https://arxiv.org/abs/2209.12430), [ICLR](https://openreview.net/pdf?id=VWqiPBB_EM)]. Accepted to ICLR 2023. 
 * Optimal tuning-free convex relaxation for noisy matrix completion, with Cong Ma [[arXiv](https://arxiv.org/abs/2207.05802), [IEEE](https://ieeexplore.ieee.org/abstract/document/10147023)]. Accepted to IEEE Transactions on Information Theory.
 
 <!-- 
