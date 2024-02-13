@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a fourth year Stat PhD student at the University of Chicago. I'm happy to be advised by Professor [Cong Ma](https://congma1028.github.io/). 
+Before coming to UChicago, I did my Bachelor's and Master's degrees in Mathematics at Carnegie Mellon University from 2016 to 2020. My Master thesis was supervised by Professor [Dejan Slepcev](https://www.math.cmu.edu/~slepcev/). 
 
-## Research Interests
+I'm interested in all sorts of things related to theory/ML!
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+## Publication/Preprints
+* Top-$K$ ranking with monotone adversary, with Antares Chen, Lorenzo Orecchia, and Cong Ma [[arXiv](https://arxiv.org/abs/2402.07445)]
+* $O(T^{−1})$ Convergence of optimistic-follow-the-regularized-leader in two-player zero-sum markov games, with Cong Ma [[arXiv](https://arxiv.org/abs/2209.12430), [ICLR](https://openreview.net/pdf?id=VWqiPBB_EM)]. Accepted to ICLR 2023. 
+* Optimal tuning-free convex relaxation for noisy matrix completion, with Cong Ma [[arXiv](https://arxiv.org/abs/2207.05802), [IEEE](https://ieeexplore.ieee.org/abstract/document/10147023)]. Accepted to IEEE Transactions on Information Theory.
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+<!-- 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %} -->
