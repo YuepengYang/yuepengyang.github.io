@@ -4,14 +4,10 @@ layout: homepage
 
 ## About Me
 
-I'm a fourth year Stat PhD student at the University of Chicago. I'm happy to be advised by Professor [Cong Ma](https://congma1028.github.io/). 
+I'm a fifth-year Stat PhD student at the University of Chicago. I'm happy to be advised by Professor [Cong Ma](https://congma1028.github.io/). 
 Before coming to UChicago, I did my Bachelor's and Master's degrees in Mathematics at Carnegie Mellon University from 2016 to 2020. My Master thesis was supervised by Professor [Dejan Slepcev](https://www.math.cmu.edu/~slepcev/). 
 
 I'm interested in all sorts of things related to stat theory/ML!
-
-## News
-* New paper on arXiv! [Random pairing MLE for estimation of item parameters in Rasch model](https://arxiv.org/abs/2406.13989)
-* Our paper [Top-$$K$$ ranking with monotone adversary](https://arxiv.org/abs/2402.07445) is accepted to COLT 2024!
 
 ## Publication and Preprints
 * Random pairing MLE for estimation of item parameters in Rasch model, with Cong Ma [[arXiv](https://arxiv.org/abs/2406.13989)]
