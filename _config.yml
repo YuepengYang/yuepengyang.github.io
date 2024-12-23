@@ -9,12 +9,12 @@ email: firstnamelastname AT uchicago DOT edu
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Yuepeng Yang, 杨粤鹏
-description: This is Yuepeng Yang's personal website
+description: Yuepeng Yang's personal website
 canonical: https://yuepengyang.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=9SITlKwAAAAJ&hl=en&oi=ao
 # cv_link: assets/files/curriculum_vitae.pdf
 # github_link: https://github.com/
 # linkedin: https://www.linkedin.com/
@@ -36,7 +36,7 @@ auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
