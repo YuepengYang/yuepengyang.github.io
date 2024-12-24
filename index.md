@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-## [Home](/index.md) | [Talks](/pages/talks.md) 
+<!-- ## [Home](/index.md) | [Talks](/pages/talks.md)  -->
 
 ## About Me
 
