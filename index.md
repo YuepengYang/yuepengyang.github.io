@@ -1,6 +1,8 @@
 ---
 layout: homepage
+permalink: /home
 ---
+## [Home](/index.md) | [Talks](/pages/talks.md) 
 
 ## About Me
 
