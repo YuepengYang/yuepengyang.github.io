@@ -3,6 +3,7 @@ layout: homepage
 title: "Talks"
 permalink: /talks
 ---
+## [Home](/index.md) | [Talks](/pages/talks.md) 
 
 ## Talks
 
