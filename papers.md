@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: "Talks"
-permalink: /talks
+title: "Papers"
+permalink: /papers
 ---
 ## [Home](/index.md) | [Talks](/talks.md) | [Papers](/papers.md)
 
