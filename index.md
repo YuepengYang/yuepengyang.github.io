@@ -6,16 +6,19 @@ layout: homepage
 
 ## About Me
 
-I'm a fifth-year Stat PhD student at the University of Chicago. I'm happy to be advised by Professor [Cong Ma](https://congma1028.github.io/). 
-Before coming to UChicago, I did my Bachelor's and Master's degrees in Mathematics at Carnegie Mellon University from 2016 to 2020. My Master thesis was supervised by Professor [Dejan Slepcev](https://www.math.cmu.edu/~slepcev/).
+Starting July 2025, I am a postdoc at the Stat&DS department of Yale University, advised by Professors [Yuejie Chi](https://yuejiechi.github.io/) and [Yuxin Chen](https://yuxinchen2020.github.io/).
 
-I'm interested in all sorts of things related to stat/ML theory! My current research focuces on low-rank matrix estimation and ranking.
+Previously, I obtained my PhD in Statistics in 2025 at the University of Chicago, advised by Professor [Cong Ma](https://congma1028.github.io/).
+Before that I did a combined B.S. and M.S. in Mathematics at Carnegie Mellon University in 2020. My Master thesis was supervised by Professor [Dejan Slepcev](https://www.math.cmu.edu/~slepcev/).
+
+I'm interested in all sorts of things related to stat/ML theory!
 
 ---
 ## News
 
-* Jan 2025: A new paper! Estimating shared subspace with AJIVE: the power and limitation of multiple data matrices [[arXiv](https://arxiv.org/abs/2501.09336)]
-* Jan 2025: Gave a talk at CUHK-Shenzhen on ranking with non-uniformity [[slides](/assets/slides/ranking.pdf)]
+* Aug 2025: I will attend JSM at Nashville :)
+* July 2025: I have started as a postdoc at Yale! Thanks Yuejie and Yuxin for advising me!
+* June 2025: I graduated! Thanks Cong for being a wonderful advisor!
 
 ---
 
