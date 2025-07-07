@@ -4,7 +4,7 @@ title_cn: 杨粤鹏
 position: Ph.D. Student
 affiliation: University of Chicago 
 department: Dept. of Statistics
-email: firstnamelastname AT uchicago DOT edu
+email: firstname.lastname AT yale DOT edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -22,7 +22,7 @@ google_scholar: https://scholar.google.com/citations?user=9SITlKwAAAAJ&hl=en&oi=
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profile.JPG
+avatar: ./assets/img/profile2025.JPG
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
