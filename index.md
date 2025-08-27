@@ -16,7 +16,6 @@ I'm interested in all sorts of things related to stat/ML theory!
 ---
 ## News
 
-* Aug 2025: I will attend JSM at Nashville :)
 * July 2025: I have started as a postdoc at Yale! Thanks Yuejie and Yuxin for advising me!
 * June 2025: I graduated! Thanks Cong for being a wonderful advisor!
 
