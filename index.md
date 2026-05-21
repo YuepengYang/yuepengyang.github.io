@@ -25,9 +25,7 @@ estimation, ranking, reinforcement learning, and multi-matrix data analysis.
   </ul>
 </section>
 
-<div class="content-band">
-  <div class="main-grid">
-    <section id="papers" class="home-publications" aria-labelledby="papers-title">
+<section id="papers" class="home-publications" aria-labelledby="papers-title">
       <div class="section-head">
         <h2 id="papers-title">Selected Papers</h2>
         <a href="{{ '/papers' | relative_url }}">All papers</a>
@@ -72,6 +70,4 @@ estimation, ranking, reinforcement learning, and multi-matrix data analysis.
           </div>
         </div>
       </article>
-    </section>
-  </div>
-</div>
+</section>
