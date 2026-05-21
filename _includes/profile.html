@@ -1,0 +1,31 @@
+<aside class="profile" aria-label="Profile">
+  {% if site.avatar %}
+  <img class="portrait" src="{{ site.avatar | relative_url }}" alt="{{ site.title }}">
+  {% endif %}
+  <div>
+    <h1>{{ site.title }}</h1>
+    {% if site.title_cn %}
+    <p class="cn">{{ site.title_cn }}</p>
+    {% endif %}
+    {% if site.position %}
+    <p>{{ site.position }}</p>
+    {% endif %}
+    {% if site.department %}
+    <p>{{ site.department }}</p>
+    {% endif %}
+    {% if site.affiliation %}
+    <p>{{ site.affiliation }}</p>
+    {% endif %}
+    {% if site.email %}
+    <p>{{ site.email }}</p>
+    {% endif %}
+  </div>
+  <div class="profile-links">
+    {% if site.google_scholar %}
+    <a href="{{ site.google_scholar }}">Google Scholar</a>
+    {% endif %}
+    {% if site.cv_link %}
+    <a href="{{ site.cv_link | relative_url }}">CV</a>
+    {% endif %}
+  </div>
+</aside>

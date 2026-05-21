@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <title>{{ site.title }} | {{ site.affiliation }}</title>
+  {% include site-head.html %}
+</head>
+<body>
+  {% include nav.html %}
+  <main>
+    <div class="hero">
+      {% include profile.html %}
+      <section class="intro" aria-label="Introduction">
+        {{ content }}
+      </section>
+    </div>
+  </main>
+  <footer>
+    {{ site.title }}
+  </footer>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<header class="topbar">
+  <div class="topbar-inner">
+    <nav aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/papers' | relative_url }}" {% if page.url contains '/papers' %}aria-current="page"{% endif %}>Papers</a>
+    </nav>
+  </div>
+</header>
