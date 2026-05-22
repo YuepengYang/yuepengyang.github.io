@@ -34,6 +34,18 @@ estimation, ranking, reinforcement learning, and multi-matrix data analysis.
       <article class="publication">
         <div class="venue">Preprint</div>
         <div>
+          <h3>Sample efficient inductive matrix completion with noise and inexact side information.</h3>
+          <p class="authors">Yuepeng Yang, Cong Ma</p>
+          <p class="meta">arXiv, 2026</p>
+          <div class="paper-links">
+            <a href="https://arxiv.org/abs/2605.17189">arXiv</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="publication">
+        <div class="venue">Preprint</div>
+        <div>
           <h3>Estimating shared subspace with AJIVE: the power and limitation of multiple data matrices.</h3>
           <p class="authors">Yuepeng Yang, Cong Ma</p>
           <p class="meta">arXiv, 2025</p>
