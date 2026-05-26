@@ -35,13 +35,14 @@ permalink: /papers
 </article>
 
 <article class="publication">
-  <div class="venue">Preprint</div>
+  <div class="venue">JASA</div>
   <div>
     <h3>Random pairing MLE for estimation of item parameters in Rasch model.</h3>
     <p class="authors">Yuepeng Yang, Cong Ma</p>
-    <p class="meta">arXiv, 2024</p>
+    <p class="meta">Journal of the American Statistical Association, 2026</p>
     <div class="links">
       <a href="https://arxiv.org/abs/2406.13989">arXiv</a>
+      <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2582873">JASA</a>
     </div>
   </div>
 </article>
