@@ -1,0 +1,70 @@
+- title: Sample efficient inductive matrix completion with noise and inexact side information.
+  authors: Yuepeng Yang, Cong Ma
+  venue: Preprint
+  venue_short: Preprint
+  meta: arXiv, 2026
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2605.17189
+
+- title: "Estimating shared subspace with AJIVE: the power and limitation of multiple data matrices."
+  authors: Yuepeng Yang, Cong Ma
+  venue: Preprint
+  venue_short: Preprint
+  meta: arXiv, 2025
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2501.09336
+
+- title: Random pairing MLE for estimation of item parameters in Rasch model.
+  authors: Yuepeng Yang, Cong Ma
+  venue: JASA
+  venue_short: JASA
+  meta: Journal of the American Statistical Association, 2026
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2406.13989
+    - label: JASA
+      url: https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2582873
+
+- title: Top-K ranking with monotone adversary.
+  authors: Yuepeng Yang, Antares Chen, Lorenzo Orecchia, Cong Ma
+  venue: COLT 2024
+  venue_short: COLT
+  meta: Conference on Learning Theory, 2024
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2402.07445
+    - label: COLT
+      url: https://proceedings.mlr.press/v247/yang24b
+    - label: Slides
+      url: /assets/slides/topK_semirandom.pdf
+      relative: true
+
+- title: O(T<sup>-1</sup>) convergence of optimistic-follow-the-regularized-leader in two-player zero-sum Markov games.
+  authors: Yuepeng Yang, Cong Ma
+  venue: ICLR 2023
+  venue_short: ICLR
+  meta: International Conference on Learning Representations, 2023
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2209.12430
+    - label: ICLR
+      url: https://openreview.net/pdf?id=VWqiPBB_EM
+    - label: Slides
+      url: /assets/slides/OFTRL.pdf
+      relative: true
+
+- title: Optimal tuning-free convex relaxation for noisy matrix completion.
+  authors: Yuepeng Yang, Cong Ma
+  venue: TIT 2023
+  venue_short: TIT
+  meta: IEEE Transactions on Information Theory, 2023
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2207.05802
+    - label: IEEE
+      url: https://ieeexplore.ieee.org/abstract/document/10147023
+    - label: Slides
+      url: /assets/slides/sqrtMC.pdf
+      relative: true

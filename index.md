@@ -3,7 +3,7 @@ layout: home
 ---
 
 <p class="intro-copy">
-I am a postdoc at Yale Statistics and Data Science, advised by Yuejie Chi and Yuxin Chen.
+I am a postdoc at the Wharton Department of Statistics and Data Science, advised by Yuejie Chi and Yuxin Chen.
 Previously, I completed my PhD in Statistics at the University of Chicago with Cong Ma.
 My work studies statistical and machine learning theory, with recent projects in matrix
 estimation, ranking, reinforcement learning, and multi-matrix data analysis.
@@ -15,71 +15,35 @@ estimation, ranking, reinforcement learning, and multi-matrix data analysis.
   </div>
   <ul class="news-list">
     <li>
-      <span class="date">Jul 2025</span>
-      <span>I started as a postdoc at Yale University.</span>
+      <span class="date">Jul 2026</span>
+      <span>I started as a postdoc at the Wharton Department of Statistics and Data Science.</span>
     </li>
     <li>
-      <span class="date">Jun 2025</span>
-      <span>I graduated with a PhD in Statistics from the University of Chicago.</span>
+      <span class="date">May 2026</span>
+      <span>Our new preprint asks how much imperfect side information can still help in inductive matrix completion. We show that low-rank matrices can be recovered sample-efficiently even when both the observations and the side information are noisy.</span>
     </li>
   </ul>
 </section>
 
 <section id="papers" class="home-publications" aria-labelledby="papers-title">
       <div class="section-head">
-        <h2 id="papers-title">Selected Papers</h2>
+        <h2 id="papers-title">Recent Papers</h2>
         <a href="{{ '/papers' | relative_url }}">All papers</a>
       </div>
 
+      {% for paper in site.data.papers limit: 4 %}
       <article class="publication">
-        <div class="venue">Preprint</div>
+        <div class="venue">{{ paper.venue_short | default: paper.venue }}</div>
         <div>
-          <h3>Sample efficient inductive matrix completion with noise and inexact side information.</h3>
-          <p class="authors">Yuepeng Yang, Cong Ma</p>
-          <p class="meta">arXiv, 2026</p>
+          <h3>{{ paper.title }}</h3>
+          <p class="authors">{{ paper.authors }}</p>
+          <p class="meta">{{ paper.meta }}</p>
           <div class="paper-links">
-            <a href="https://arxiv.org/abs/2605.17189">arXiv</a>
+            {% for link in paper.links %}
+            <a href="{% if link.relative %}{{ link.url | relative_url }}{% else %}{{ link.url }}{% endif %}">{{ link.label }}</a>
+            {% endfor %}
           </div>
         </div>
       </article>
-
-      <article class="publication">
-        <div class="venue">Preprint</div>
-        <div>
-          <h3>Estimating shared subspace with AJIVE: the power and limitation of multiple data matrices.</h3>
-          <p class="authors">Yuepeng Yang, Cong Ma</p>
-          <p class="meta">arXiv, 2025</p>
-          <div class="paper-links">
-            <a href="https://arxiv.org/abs/2501.09336">arXiv</a>
-          </div>
-        </div>
-      </article>
-
-      <article class="publication">
-        <div class="venue">COLT</div>
-        <div>
-          <h3>Top-K ranking with monotone adversary.</h3>
-          <p class="authors">Yuepeng Yang, Antares Chen, Lorenzo Orecchia, Cong Ma</p>
-          <p class="meta">Conference on Learning Theory, 2024</p>
-          <div class="paper-links">
-            <a href="https://arxiv.org/abs/2402.07445">arXiv</a>
-            <a href="https://proceedings.mlr.press/v247/yang24b">Proceedings</a>
-            <a href="{{ '/assets/slides/topK_semirandom.pdf' | relative_url }}">Slides</a>
-          </div>
-        </div>
-      </article>
-
-      <article class="publication">
-        <div class="venue">ICLR</div>
-        <div>
-          <h3>O(T<sup>-1</sup>) convergence of optimistic-follow-the-regularized-leader in two-player zero-sum Markov games.</h3>
-          <p class="authors">Yuepeng Yang, Cong Ma</p>
-          <p class="meta">International Conference on Learning Representations, 2023</p>
-          <div class="paper-links">
-            <a href="https://arxiv.org/abs/2209.12430">arXiv</a>
-            <a href="https://openreview.net/pdf?id=VWqiPBB_EM">OpenReview</a>
-            <a href="{{ '/assets/slides/OFTRL.pdf' | relative_url }}">Slides</a>
-          </div>
-        </div>
-      </article>
+      {% endfor %}
 </section>
