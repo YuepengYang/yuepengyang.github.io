@@ -1,3 +1,12 @@
+- title: "Robust average-reward Markov decision processes: minimax-optimal learning via plug-in reductions."
+  authors: Yuepeng Yang, Yuxin Chen, Yuejie Chi
+  venue: Preprint
+  venue_short: Preprint
+  meta: arXiv, 2026
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2608.06545
+
 - title: Sample efficient inductive matrix completion with noise and inexact side information.
   authors: Yuepeng Yang, Cong Ma
   venue: Preprint

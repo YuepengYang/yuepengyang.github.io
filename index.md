@@ -4,6 +4,7 @@ layout: home
 
 <p class="intro-copy">
 I am a postdoc at the Wharton Department of Statistics and Data Science, advised by Yuejie Chi and Yuxin Chen.
+Before joining Wharton, I was hosted at Yale University for a year.
 Previously, I completed my PhD in Statistics at the University of Chicago with Cong Ma.
 My work studies statistical and machine learning theory, with recent projects in matrix
 estimation, ranking, reinforcement learning, and multi-matrix data analysis.
@@ -14,6 +15,10 @@ estimation, ranking, reinforcement learning, and multi-matrix data analysis.
     <h2 id="news-title">News</h2>
   </div>
   <ul class="news-list">
+    <li>
+      <span class="date">Aug 2026</span>
+      <span>Our new preprint develops minimax-optimal methods for robust average-reward Markov decision processes. Using plug-in reductions, we characterize how the sample complexity changes across high- and low-tolerance regimes.</span>
+    </li>
     <li>
       <span class="date">Jul 2026</span>
       <span>I started as a postdoc at the Wharton Department of Statistics and Data Science.</span>
