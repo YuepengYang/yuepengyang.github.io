@@ -1,3 +1,12 @@
+- title: "Bias-corrected subspace intersection: minimax-optimal shared subspace estimation in multi-view data."
+  authors: Xianwen Song, Yuepeng Yang, Cong Ma
+  venue: Preprint
+  venue_short: Preprint
+  meta: arXiv, 2026
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2609.05617
+
 - title: "Robust average-reward Markov decision processes: minimax-optimal learning via plug-in reductions."
   authors: Yuepeng Yang, Yuxin Chen, Yuejie Chi
   venue: Preprint
@@ -20,7 +29,9 @@
   authors: Yuepeng Yang, Cong Ma
   venue: Preprint
   venue_short: Preprint
-  meta: arXiv, 2025
+  meta: arXiv preprint, 2025; minor revision at JMLR
+  selected: true
+  selected_order: 3
   links:
     - label: arXiv
       url: https://arxiv.org/abs/2501.09336
@@ -30,17 +41,21 @@
   venue: JASA
   venue_short: JASA
   meta: Journal of the American Statistical Association, 2026
+  selected: true
+  selected_order: 1
   links:
     - label: arXiv
       url: https://arxiv.org/abs/2406.13989
     - label: JASA
       url: https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2582873
 
-- title: Top-K ranking with monotone adversary.
+- title: Top-K ranking with a monotone adversary.
   authors: Yuepeng Yang, Antares Chen, Lorenzo Orecchia, Cong Ma
   venue: COLT 2024
   venue_short: COLT
   meta: Conference on Learning Theory, 2024
+  selected: true
+  selected_order: 2
   links:
     - label: arXiv
       url: https://arxiv.org/abs/2402.07445
