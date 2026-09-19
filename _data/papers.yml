@@ -15,6 +15,9 @@
   links:
     - label: arXiv
       url: https://arxiv.org/abs/2608.06545
+    - label: Poster
+      url: /assets/posters/Robust_AMDP.pdf
+      relative: true
 
 - title: Sample efficient inductive matrix completion with noise and inexact side information.
   authors: Yuepeng Yang, Cong Ma
@@ -35,6 +38,9 @@
   links:
     - label: arXiv
       url: https://arxiv.org/abs/2501.09336
+    - label: Slides
+      url: /assets/slides/AJIVE.pdf
+      relative: true
 
 - title: Random pairing MLE for estimation of item parameters in Rasch model.
   authors: Yuepeng Yang, Cong Ma

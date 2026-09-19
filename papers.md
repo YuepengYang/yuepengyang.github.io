@@ -7,7 +7,7 @@ permalink: /papers
 <div class="page-head">
   <p class="eyebrow">Papers</p>
   <h1>Publications and Preprints</h1>
-  <p>A complete list of current papers, with links to arXiv, proceedings, publishers, and slides where available.</p>
+  <p>A complete list of current papers, with links to arXiv, proceedings, publishers, slides, and posters where available.</p>
 </div>
 
 {% for paper in site.data.papers %}
