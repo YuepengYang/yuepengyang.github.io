@@ -24,7 +24,7 @@ Recent projects include low-rank matrix estimation with multi-view integration, 
   <ul class="news-list">
     <li>
       <span class="date">Oct 2026</span>
-      <span>New <a href="https://arxiv.org/abs/2610.09030">preprint</a> on ranking from pairwise comparisons on general comparison graphs. We establish entrywise error bounds for MLE and Rank Centrality graphs that is captured by algebraic connectivity of the comparison graph. We then show that both algorithms are robust against outcome-adaptive data augmentation.</span>
+      <span>New <a href="https://arxiv.org/abs/2610.09030">preprint</a> on ranking from pairwise comparisons on general comparison graphs. We establish entrywise error bounds for MLE and Rank Centrality that is captured by algebraic connectivity of the comparison graph. We then show that both algorithms are robust against outcome-adaptive data augmentation.</span>
     </li>
   </ul>
 </section>
