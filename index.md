@@ -23,12 +23,8 @@ Recent projects include low-rank matrix estimation with multi-view integration, 
   </div>
   <ul class="news-list">
     <li>
-      <span class="date">Sep 2026</span>
-      <span>A new <a href="https://arxiv.org/abs/2609.05617">preprint</a>! It introduces bias-corrected subspace intersection (BCSI), a method for estimating subspace structure shared between two views. It improves over existing methods like AJIVE by correcting a second-order bias.</span>
-    </li>
-    <li>
-      <span class="date">Aug 2026</span>
-      <span>New <a href="https://arxiv.org/abs/2608.06545">paper</a> on robust MDPs. We use plug-in reductions, with both span-informed and span-agnostic versions, to solve distributionally robust average-reward MDPs. We discuss their behavior compared with standard AMDPs over high- and low-tolerance regimes, and establish a matching pair of sample complexity upper and lower bounds.</span>
+      <span class="date">Oct 2026</span>
+      <span>New <a href="https://arxiv.org/abs/2610.09030">preprint</a> on ranking from pairwise comparisons on general comparison graphs. We establish entrywise error bounds for MLE and Rank Centrality graphs that is captured by algebraic connectivity of the comparison graph. We then show that both algorithms are robust against outcome-adaptive data augmentation.</span>
     </li>
   </ul>
 </section>
@@ -63,7 +59,7 @@ Recent projects include low-rank matrix estimation with multi-view integration, 
         <a href="{{ '/papers' | relative_url }}">All papers</a>
       </div>
 
-      {% for paper in site.data.papers limit: 3 %}
+      {% for paper in site.data.papers limit: 4 %}
       <article class="publication">
         <div class="venue">{{ paper.venue_short | default: paper.venue }}</div>
         <div>

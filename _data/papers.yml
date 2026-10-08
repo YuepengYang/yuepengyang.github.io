@@ -1,3 +1,12 @@
+- title: Graph-monotone entrywise guarantees for MLE and Rank Centrality on general comparison graphs.
+  authors: Yuepeng Yang, Cong Ma
+  venue: Preprint
+  venue_short: Preprint
+  meta: arXiv, 2026
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2610.09030
+
 - title: "Bias-corrected subspace intersection: minimax-optimal shared subspace estimation in multi-view data."
   authors: Xianwen Song, Yuepeng Yang, Cong Ma
   venue: Preprint
